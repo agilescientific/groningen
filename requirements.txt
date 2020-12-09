@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+welly
+striplog
+beautifulsoup4
+lxml
+pandas
