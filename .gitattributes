@@ -1,1 +1,2 @@
-data -linguist-detectable
+*.las -linguist-detectable
+*.dev -linguist-detectable
