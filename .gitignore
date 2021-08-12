@@ -1,3 +1,5 @@
+*.SGY
+*.SEGY
 secrets.py
 .DS_Store
 
